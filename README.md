@@ -7,7 +7,7 @@
 <div>
   🖥 Blog : <a href="https://jjoystry.tistory.com" target="_blank">https://jjoystory.tistory.com</a><br><br>
   📂 Portfolio : <a href="https://github.com/jjoylee/portfolio" target="_blank">https://github.com/jjoylee/portfolio</a><br><br>
-  📧 Email : ekdnlt1995@gmail.com<br>
+  📧 Email : <ekdnlt1995@gmail.com>
   <!-- 📝 Resume : --> 
 </div>
 <h2> 🛠 Skills & Tools </h2> 
