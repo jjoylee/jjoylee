@@ -1,20 +1,22 @@
-<h1>Hi! I'm JeongHee Lee</h1>
-<h2> 🌟 Github Stats </h2> 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjoylee&show_icons=true&theme=github_dark" alt="jjoylee's GitHub Stats"/>
-</div>
-<h2> 👩🏻 Who Am I ? </h2> 
-<div>
-  🖥 Blog : <a href="https://jjoystry.tistory.com" target="_blank">https://jjoystory.tistory.com</a><br><br>
-  📂 Portfolio : <a href="https://github.com/jjoylee/portfolio" target="_blank">https://github.com/jjoylee/portfolio</a><br><br>
-  📧 Email : <ekdnlt1995@gmail.com>
-  <!-- 📝 Resume : --> 
-</div>
-<h2> 🛠 Skills & Tools </h2> 
-<div>
-  <ol>
-    <li>Back : C#, .Net , JAVA, Spring & Spring Boot, RDBMS(MSSQL, MYSQL)</li>
-    <li>Front : JQuery, JavaScript, AngularJS, HTML/CSS</li>
-    <li>ETC : Git, Github, Jira, Selenium</li>
-  </ol>
-</div>
+# Hi! I'm JeongHee Lee
+
+<br>
+
+## 🌟 Github Stats 
+
+<img src="https://github-readme-stats.vercel.app/api?username=jjoylee&show_icons=true&theme=github_dark" alt="jjoylee's GitHub Stats"/>
+
+<br>
+
+## 👩🏻 Who Am I ?
+
+🖥 Blog : <a href="https://jjoystry.tistory.com" target="_blank">https://jjoystory.tistory.com</a><br><br>
+📂 Portfolio : <a href="https://github.com/jjoylee/portfolio" target="_blank">https://github.com/jjoylee/portfolio</a><br><br>
+📧 Email : <ekdnlt1995@gmail.com>
+
+<br>
+
+## 🛠 Skills & Tools </h2> 
+1. Back : C#, .Net , JAVA, Spring & Spring Boot, RDBMS(MSSQL, MYSQL)    
+2. Front : JQuery, JavaScript, AngularJS, HTML/CSS   
+3. ETC : Git, Github, Jira, Selenium   
