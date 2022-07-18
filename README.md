@@ -1,7 +1,5 @@
 # Hi! I'm JeongHee Lee
 
-<br>
-
 ## 🌟 Github Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jjoylee&show_icons=true&theme=github_dark" alt="jjoylee's GitHub Stats"/>
