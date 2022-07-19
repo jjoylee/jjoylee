@@ -16,5 +16,5 @@
 
 ## 🛠 Skills & Tools </h2> 
 1. Back : C#, .Net , JAVA, Spring & Spring Boot, RDBMS(MSSQL, MYSQL)    
-2. Front : JQuery, JavaScript, AngularJS, HTML/CSS   
+2. Front : jQuery, JavaScript, AngularJS, HTML/CSS   
 3. ETC : Git, Github, Jira, Selenium   
